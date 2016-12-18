@@ -1,0 +1,5 @@
+{
+    "os": "windows",
+    "arch": "amd64",
+    "out": "windows_amd64.exe"
+}
