@@ -1,0 +1,27 @@
+[
+    {
+        "os": "linux",
+        "arch": "386",
+        "out": "linux_x86"
+    },
+    {
+        "os": "linux",
+        "arch": "amd64",
+        "out": "linux_amd64"
+    },
+    {
+        "os": "darwin",
+        "arch": "amd64",
+        "out": "macos_amd64"
+    },
+    {
+        "os": "windows",
+        "arch": "amd64",
+        "out": "windows_amd64.exe"
+    },
+    {
+        "os": "windows",
+        "arch": "x86",
+        "out": "windows_x86.exe"
+    }
+]
